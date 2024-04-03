@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>HealthCareAppSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>869efde0-2838-43e6-9ae5-07aa349ee5a1</testSuiteGuid>
+   <testCaseLink>
+      <guid>f212d078-97f4-42d0-8feb-28d1f7eb2f02</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthCareApp</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b46f05d7-f8fe-49dc-b3d5-c7a868017900</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData02</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b46f05d7-f8fe-49dc-b3d5-c7a868017900</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>cdf62623-b120-4ceb-98d5-0c7dc0b18b50</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b46f05d7-f8fe-49dc-b3d5-c7a868017900</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>f14ece81-08de-4393-a19b-f0966e3c5852</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b46f05d7-f8fe-49dc-b3d5-c7a868017900</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>caa66951-ec34-4c8f-9553-fa543f48f382</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b46f05d7-f8fe-49dc-b3d5-c7a868017900</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>healthcareCenter</value>
+         <variableId>0d167da2-79c5-4c85-a8f6-b02c29bc7775</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b46f05d7-f8fe-49dc-b3d5-c7a868017900</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>appointmentComment</value>
+         <variableId>7effa2c9-4352-47e2-877e-4ed5cd5db5bc</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

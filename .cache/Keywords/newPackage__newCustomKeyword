@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9327055462CC80B363B08D208DD72277",
+  "keywordClasses": [
+    {
+      "name": "newPackage.newCustomKeyword",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
